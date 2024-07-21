@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "6910562959:AAE2ehh8TX3FuXqxnHTHpRNaBA1DipJVFm0"
+    APP_ID = "22419004"
+    API_HASH = "34982b52c4a83c2af3ce8f4fe12fe4e1"
     DATABASE_URL = ""
-    SUDO_USERS = " "  # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "6742022802"  # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/NOOBPrivateChats"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
